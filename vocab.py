@@ -105,7 +105,6 @@ def startRevision(word_df, retrieved_checkpoint=False, checkpoint_filepath=None)
         incorrect_words = []
         attempted_word_count = 0
     else:
-        # data = pickle.load(open('checkpoint/checkpoint.pkl', 'rb'))
         data = pickle.load(open(checkpoint_filepath, 'rb'))
         word_df = data['word_df']
         df = data['df']
