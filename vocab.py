@@ -172,6 +172,10 @@ def startRevision(word_df, retrieved_checkpoint=False, checkpoint_filepath=None)
     print(f'\033[0;32;40m')
     print(f'Revision completed. You revised {attempted_word_count} words.')
     print(f'Performance: {len(correct_words)}/{attempted_word_count}')
+    if len(incorrect_words) > 0:
+        print('\n\nIncorrect Words:')
+        for index, incorrect_word in enumerate(incorrect_words):
+            print(f'{index + 1}: {incorrect_word}')
     saveRevisionResult(
         attempted_word_count,
         correct_words,
