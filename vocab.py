@@ -1,35 +1,52 @@
 import os
 import sys
+import time
+import msvcrt
 import pickle
 import datetime
 import numpy as np
 import pandas as pd
 
-from os import system, name
-
 
 def clearScreen():
     '''Clear output console screen'''
     # for windows
-    if name == 'nt':
-        _ = system('cls')
-  
+    if os.name == 'nt':
+        _ = os.system('cls')
+
     # for mac and linux(here, os.name is 'posix')
     else:
-        _ = system('clear')
+        _ = os.system('clear')
+
+
+def readInputWithTimeout(prompt, timeout=15):
+    start_time = time.time()
+    print(prompt, end=' ')
+    sys.stdout.flush()
+    has_timed_out = False
+    while True:
+        if msvcrt.kbhit():
+            _ = msvcrt.getche()
+            break
+        if (time.time() - start_time) > timeout:
+            has_timed_out = True
+            print('(Oops! Time up)')
+            break
+
+    return has_timed_out
 
 
 def saveRevisionResult(
-        attempted_word_count,
-        correct_words,
-        incorrect_words
-    ):
+    attempted_word_count,
+    correct_words,
+    incorrect_words
+):
     '''Save the performace report'''
     df = pd.DataFrame({
         'correct': pd.Series(correct_words, dtype='object'),
         'incorrect': pd.Series(incorrect_words, dtype='object')
     })
-    
+
     dt = datetime.datetime.now()
     filename = f'{dt.strftime("%Y%m%d_%H%M")}_{attempted_word_count}'
 
@@ -38,7 +55,7 @@ def saveRevisionResult(
 
 def getIncorrectlyAnsweredWords(dir_name='performance'):
     performance_files = [
-        os.path.join(dir_name, f) for f in os.listdir(dir_name) 
+        os.path.join(dir_name, f) for f in os.listdir(dir_name)
         if os.path.isfile(os.path.join(dir_name, f))
     ]
 
@@ -50,7 +67,7 @@ def getIncorrectlyAnsweredWords(dir_name='performance'):
 
     if incorrect_word_list.index(np.nan) >= 0:
         incorrect_word_list.remove(np.nan)
-    
+
     return incorrect_word_list
 
 
@@ -62,7 +79,7 @@ def selectDatabaseSubset(filepath='data/WordDatabase.csv', choice=1, N=-1, chara
     elif choice == 2:
         last_record = word_df.iloc[-1, 0:2]
         word_df = word_df[
-            (word_df['date'] == last_record['date']) & 
+            (word_df['date'] == last_record['date']) &
             (word_df['session'] == last_record['session'])
         ]
     elif choice == 3:
@@ -73,7 +90,7 @@ def selectDatabaseSubset(filepath='data/WordDatabase.csv', choice=1, N=-1, chara
         elif (N <= 0):
             print('The value of N must be positive')
             sys.exit(0)
-        
+
         n_dates = unique_dates[-1 * N:]
         word_df = word_df[
             word_df['date'].isin(n_dates)
@@ -119,11 +136,12 @@ def startRevision(word_df, retrieved_checkpoint=False, checkpoint_filepath=None)
         word_row = word_row[0]
 
         print(f'\033[1;31;40m')
-        print(f"WORD {attempted_word_count + 1}/{word_df.shape[0]}: {word_row['word']}")
-        
+        print(
+            f"WORD {attempted_word_count + 1}/{word_df.shape[0]}: {word_row['word']}")
+
         print(f'\033[0;37;40m')
-        ch = input('Show Solution?')
-        
+        has_timed_out = readInputWithTimeout('Show Solution?')
+
         print(f'\033[0;33;40m')
         print(f"MEANING: {word_row['meaning']}\n")
         print(f"SYNONYMS: {word_row['synonym_1']}; {word_row['synonym_2']}\n")
@@ -131,41 +149,48 @@ def startRevision(word_df, retrieved_checkpoint=False, checkpoint_filepath=None)
         print(f"SENTENCE 2: {word_row['sentence_2']}")
 
         df = df.drop(word_index, axis=0)
-        
-        print(f'\033[0;32;40m')
-        result = input('Did you get it right? (Enter \'N\' to deny)\n')            
+
+        if not has_timed_out:
+            print(f'\033[0;32;40m')
+            result = input('Did you get it right? (Enter \'N\' to deny)\n')
+        else:
+            result = 'n'
         if result in ['N', 'n']:
             incorrect_words.append(word_row['word'])
         else:
             correct_words.append(word_row['word'])
 
         attempted_word_count += 1
-        
+
         print(f'\033[0;37;40m')
         show_next = input('Show Next? (Enter \'N\' to deny)\n')
         if show_next in ['N', 'n']:
-            save_confirm = input('\nDo you wish to save? (Enter \'N\' to deny)\n')
+            save_confirm = input(
+                '\nDo you wish to save? (Enter \'N\' to deny)\n')
             if save_confirm in ['N', 'n']:
                 break
             data = {
-                'word_df' : word_df,
+                'word_df': word_df,
                 'df': df,
                 'correct_words': correct_words,
                 'incorrect_words': incorrect_words,
                 'attempted_word_count': attempted_word_count
             }
-            existing_checkpoint = input('\nUse existing checkpoint? (Enter \'N\' to deny)\n')
+            existing_checkpoint = input(
+                '\nUse existing checkpoint? (Enter \'N\' to deny)\n')
             if existing_checkpoint in ['N', 'n']:
                 checkpoint_name = input('\nEnter checkoint name: \n')
             else:
                 for index, filename in enumerate(os.listdir('checkpoint')):
                     print(f'{index}: {filename}')
                 checkpoint_file_index = int(input('\nEnter your choice: '))
-                checkpoint_name = os.listdir('checkpoint')[checkpoint_file_index]
+                checkpoint_name = os.listdir('checkpoint')[
+                    checkpoint_file_index]
                 checkpoint_name = checkpoint_name[:checkpoint_name.rindex('.')]
             pickle.dump(data, open(f'checkpoint/{checkpoint_name}.pkl', 'wb'))
             clearScreen()
-            print(f'Checkpoint saved. You revised {attempted_word_count} words.')
+            print(
+                f'Checkpoint saved. You revised {attempted_word_count} words.')
             return
         clearScreen()
 
