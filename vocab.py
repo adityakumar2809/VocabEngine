@@ -37,10 +37,10 @@ def readInputWithTimeout(prompt, timeout=15):
 
 
 def saveRevisionResult(
-    attempted_word_count,
-    correct_words,
-    incorrect_words
-):
+        attempted_word_count,
+        correct_words,
+        incorrect_words
+    ):
     '''Save the performace report'''
     df = pd.DataFrame({
         'correct': pd.Series(correct_words, dtype='object'),
@@ -71,7 +71,12 @@ def getIncorrectlyAnsweredWords(dir_name='performance'):
     return incorrect_word_list
 
 
-def selectDatabaseSubset(filepath='data/WordDatabase.csv', choice=1, N=-1, character=None):
+def selectDatabaseSubset(
+        filepath='data/WordDatabase.csv',
+        choice=1,
+        N=-1,
+        character=None
+    ):
     word_df = pd.read_csv(filepath, dtype=str, encoding='latin-1')
 
     if choice == 0:
@@ -113,7 +118,11 @@ def selectDatabaseSubset(filepath='data/WordDatabase.csv', choice=1, N=-1, chara
     return word_df
 
 
-def startRevision(word_df, retrieved_checkpoint=False, checkpoint_filepath=None):
+def startRevision(
+        word_df,
+        retrieved_checkpoint=False,
+        checkpoint_filepath=None
+    ):
     '''Use word database to revise the contents'''
 
     if not retrieved_checkpoint:
