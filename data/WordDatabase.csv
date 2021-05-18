@@ -639,7 +639,7 @@ date,session,word,meaning,synonym_1,synonym_2,sentence_1,sentence_2
 06-05-2021,2,exhilaration,(n) a feeling of happiness and excitement,elation,euphoria,The allies felt the exhilaration after winning the World War,-
 06-05-2021,2,meretricious,(adj) apparently attractive but having no real value,gaudy,specious,One of the allures of jargon is that it can make something meretricious easier to accept because it is dressed in fancy language,-
 06-05-2021,2,insuperable,(adj) (of a difficulty or obstacle) impossible to overcome,insurmountable,inconquerable,Development of antiballistic missiles have met with limited success because of almost imsuperable difficulties presented by the speed of approaching warhead that must be intercepted,-
-07-05-2021,1,mesmerize,(v) capture the complete attention of (someone),transfix,spellbind,The audience sta mesmerized listening to retired soldiers story,-
+07-05-2021,1,mesmerize,(v) capture the complete attention of (someone),transfix,spellbind,The audience stared mesmerized listening to retired soldiers story,-
 07-05-2021,1,relegate,(v) assign an inferior rank or position to ,downgrade,-,The National Organization for Woman aim to prevent women from being relegated to a secondary role,-
 07-05-2021,1,Bildungsroman,(n) a novel dealing with ones formative years or spiritual education,-,-,This book is a bildungsroman of sorts as Tull overcomes his abused childhood and learns about love,-
 07-05-2021,1,exacerbate,(v) make (a problem bad situation or negative feeling) worse,to aggravate,-,Excessive Carbon Dioxide release from vehicles has exacerbated the Greenhouse Effect on the planet,-
@@ -762,7 +762,7 @@ date,session,word,meaning,synonym_1,synonym_2,sentence_1,sentence_2
 11-05-2021,1,extemporaneous,(adj) spoken or done without preparation,unrehearsed,impromptu,I enjoyed the speakers extemporaneous remark more than her prepared speech,-
 11-05-2021,1,contingency,(n) a future event or circumstance which is possible but cannot be predicted with certainity,eventuality,-,A detailed contract must provide all possible contingencies,-
 11-05-2021,1,abscission,(n) the act of cutting (especially the detachment of parts of living organisms like dried leaves of plant),-,-,It is hypothesized that the premature leaf abscission is an adaptive plant response to herbivorous attack,-
-11-05-2021,1,prate,(v) talk foolishly ot at tedious length about something,chatter,-,Jaiveers prate about AIESEC issues is becoming excessively annoying,-
+11-05-2021,1,prate,(v) talk foolishly to at tedious length about something,chatter,-,Jaiveers prate about AIESEC issues is becoming excessively annoying,-
 11-05-2021,1,brouhaha,(n) a noisy and overexcited  reaction or response to something,-,-,A brouhaha erupted over her statement about the President,-
 11-05-2021,1,harrowing,(adj) extremely distressing,terrifying,-,The biopic of Milkha Singh also represents a harrowing depiction of India-Pakistan separation,-
 11-05-2021,1,entomology,(n) scientific study of insects,-,-,Considering there are 925000 species of insects entomology is a vast field of study,-
@@ -1019,3 +1019,53 @@ date,session,word,meaning,synonym_1,synonym_2,sentence_1,sentence_2
 17-05-2021,1,solipsism,(n) view or theory that SELF is all that is known to exist,-,-,Art connects us to the world by briding the gap between our solipsism and the universe,-
 17-05-2021,1,pusillanimous,(adj) cowardly,timid,timorous,A ships captain is considered pusillanimous if he abandones his ship before anyone else,-
 17-05-2021,1,averse,(adj) having a strong dislike of or opposition to something,against,disinclined,As a former CIA director he is not averse to secrecy,-
+18-05-2021,1,officious,(adj) very enthusiastic in offering help or advice; assertive in a domineering way especially in trivial matters,meddlesome,-,Our tour guide was officious for most of the time,We were tired of being pushed around by the officious civil servants
+18-05-2021,1,dourness,(n) quality of being unfriendly unhappy and very serious especially in manner or appearance,moroseness,-,He displays neither dourness nor anger but instead a generosity of spirit,-
+18-05-2021,1,sobriety,(n) state of not being under the influence of alcohol; quality of being staid or solemn,abstinence,seriousness,The price of beer compelled me to maintain a certain level of sobriety,The student approaches her studies with commendable sobriety
+18-05-2021,1,flagellation,(n) beating or whipping either as a religious discipline or for sexual gratification,flogging,scourging,Ancient monks advocated flagellation as a path to salvation,-
+18-05-2021,1,secreted,(v) produce and release a substance in organism; conceal,exude ,veil,Pancreas secretes insulin,The assets have been secreted in the Swiss Bank Accounts
+18-05-2021,1,filial,relating to or due from a son or daughter,-,-,Stevens is dutiful above all else choosing his duty over love both romantic and filial,-
+18-05-2021,1,valedictory,(adj) serving as a farewell,departing,-,The 80-year-old actor came out of retirement to give his valedictory performance,-
+18-05-2021,1,vestige,(n) a trace or remnant of something that is disappearing or no longer exists,relic,-,The last vestiges of British Colonialism ended after WW 2,-
+18-05-2021,1,volatile,(adj) (of a substance) easily evaporated at normal temperatures; liable to change rapidly and unpredictably (especially for the worse),evaporative,fickle,Volatile liquids must be kept in airtight containers,Due to the riots the political situation became more volatile
+18-05-2021,1,tempestuous,(adj) charaterized by strong and turbulent or conflicting emotions; very stormy ,tumultuous,blustery,In terms of social change 1960s are generally considered most popular tempestuous decade in Indian History Post Independence,The tempestuous einds of Taukte will hit 5 state
+18-05-2021,1,miscreant,(n) a person who has done something wrong or unlawful,criminal,villain,The public execution of miscreants was common in Britain in 18th century,-
+18-05-2021,1,cogitate,(v) think deeply about something,contemplate,meditate,One must always cogitate the possible consequence of his decisions,-
+18-05-2021,1,pungent,(adj) having sharply strong taste or smell; (of a comment or critisism) having a sharp and caustic quality,pervasive,trenchant,The pungent smell of frying onions filled the kitchen,The journalist expressed his anti-government ideas with some fairly pungent criticisms
+18-05-2021,1,abyss,(n) an immensely deep gulf or great space; intellectual or moral depths,charm,-,Looking down at the dark ocean from ships rail the cruise passengers felt the were staring into the abyss,-
+18-05-2021,1,sodden,(adj) saturated with liquid especially water,soacked-through,-,The clothes were sodded after the rain,-
+18-05-2021,1,boisterous,(adj) noisy energetic and cheerful,exuberant,spirited,The boisterous election rallies were criticized by the opposition,-
+18-05-2021,1,olfactory,(adj) concerning the sense of smell,-,-,Wine connoisseurs say that olfactory senses play as important role as gustatory senses in appretiating good wine,-
+18-05-2021,1,ravenous,(adj) extremely hungry,starving,famished,I was out all day and was ravenous,-
+18-05-2021,1,thespian,(n) an actor or actress,-,-,Every year the Edinburgh Festival in Scotland gives thespians from around the world a chance to perform before a diverse audience,-
+18-05-2021,1,revulsion,(n) a sense if disgust and loathing,repulsion,repundnance,The PETA volunteers were struck with revulsion at the sight of the dead animals,-
+18-05-2021,2,timbre,(n) quality of a musical sound or voice as distinct from the pitch and intensity,tone-colour,-,The audience was delighted by the rich timbre of the singers soprano,-
+18-05-2021,2,razzmatazz,(n) noisy showy and exciting activity and display designed to attract and impress,-,-,The razzmatazz of fire brought us closer to cooking food,-
+18-05-2021,2,rapt,(adj) completely fascinated or absorbed by what one is seeing or hearing,enthralled ,spellbound,The entire house was standing in rapt silence,-
+18-05-2021,2,quagmire,(n) marshy area; an awkward complex or hazardous situation,swamp,predicament,Torrential rain turned the building site into a quagmire,The KM Nanavati case turned out to be a judicial quagmire
+18-05-2021,2,subsume,(v) include or absorb (something) in something else,incorporate,-,This paper is an attempt to arrive at a final generalization that will subsume all previous papers on related topics,-
+18-05-2021,2,dissertation,(n) an extended usually written treatment of subject (especially one submitted for doctorate),thesis,-,He is planning to do his dissertation on Robotic influence on Healthcare Industry,-
+18-05-2021,2,variegated,(adj) exhibiting different colours especially as irregular patches and streaks; marked by variety,multicoloured,varicoloured,Botanists are still working to catalog the variegated species of the tropical rainforest,-
+18-05-2021,2,culinary,(adj) of or for cooking,-,-,He had amazing culinary skills since childhood,-
+18-05-2021,2,vaunt,(v) boast about or praise (something) especially excessively,extol,esteem,The head coach warned her players not to vaunt their undefeated record,-
+18-05-2021,2,tussle,(n) a vigorous struggle or scuffle typically in order to obtain something,scuffle,brawl,There was a tussle for the ball on the field,-
+18-05-2021,2,solicitous,(adj) characterized by or showing interest or concern,caring ,considerate,The nurse is extremely solicitous of the health of every patient in the ward,-
+18-05-2021,2,vignette,(n) a brief evocative description account or episode,-,-,The plays program features a little vignette about each member of the cast,-
+18-05-2021,2,tirade,(n) a long angry speech of criticism or accusation,diatribe,polemic,The students had no choice but to sit and wait for the Principals tirage about poor discipline to end,-
+18-05-2021,2,penitentiary,(n) a prison for people convicted for serious crimes,vbastille,calaboose,In a penitentiary with one of the Uss largest COVID outbreaks prison terms become death sentences,-
+18-05-2021,2,misogynist,(n) a person who dislikes despises or is strongly prejudices against women,anti-feminist,-,Misogynists see the most valuable characteristic of women as sexual purity,-
+18-05-2021,2,coup,(n) a sudden violent and illegal siezure of power from a government; successful achievement of something difficult,overthrown,triumph,Myanmar was about to get overthrown in an army coup,It was a major coup to get such a prestigious internship
+18-05-2021,2,subversive,(adj) seeking or intending to undermine or overthrow an established system or institution (especially government),disruptive,inflammatory,Anything that subverts the market mechanism is believed to cause anomalies in prices making economy less efficient,-
+18-05-2021,2,staunch,(adj/v) very loyal and committed in attitude; stop or restrict (a flow of blood) from a world,stalwart,hold-back,India is a staunch supporter of anti-nuclear lobby,He staunched the blood with whatever came in hand
+18-05-2021,2,toady,(n) a person who behaves obsquiously to someone important,flatterer,yes-man,Boss has no respect for toady employees,-
+18-05-2021,2,ad hoc,(adv) when necessary or needed,impromptu,extemporaneous,The group was constituted ad hoc,-
+18-05-2021,3,vortex,(n) whirling mass of fluid or air; center of turbulence,whirlpool,whirlwind,Inexorably the country was drawn into the vortex of water,-
+18-05-2021,3,inexorable,(adj) impossible to stop or prevent; (of a person) impossible to persuade,relentless,unswerving,The seemingly inexorable march to new technology will lead us to prosperity,Gandhi was inexorable in his wish to make Nehru the first PM of India 
+18-05-2021,3,succour,(n) assistance and support in times of hardship and distress,relief,aid,The women was accused of providing succour to the enemy in form of food and medical help,-
+18-05-2021,3,hitherto,(adv) until now or until the point in time under discussion,formerly,so far,Hitherto part of India Pakistan got independent status in 1947,-
+18-05-2021,3,mitigate,(v) make (something bad) less severe serious or painful,alleviate,attenuate,The new drainage system has mitigated the problem of water lodging,-
+18-05-2021,3,expound,(v) present and explain (a theory or idea) in detail,proffer,put-forward,The article expounds the virtues of healthy sex,-
+18-05-2021,3,quail,(v) feel or show fear or apprehension,cower,falter ,The accused qualied when the judge entered the room to announce the judgement,-
+18-05-2021,3,garner,(v) gather or collect (something especially information or approval),assemble,accumulate,The Police struggled to garner sufficient evidence to file the chargesheet,-
+18-05-2021,3,suffrage,(n) right to vote in political elections,franchise,-,The pivotal feminist goal of suffrage was not obtained in US until 1920,-
+18-05-2021,3,decry,(v) publically denounce,condemn,-,Many intellectuals decry the hideous nature of the elections,-
