@@ -939,7 +939,7 @@ date,session,word,meaning,synonym_1,synonym_2,sentence_1,sentence_2
 15-05-2021,2,overarching,(adj) most important because of including or affecting all other areas,all-embracing,-,All the suggestions are in line with the fields overarching goal of public welfare,-
 15-05-2021,2,fissure,(n) a narrow opening or crack of considerable length and depth usually occuring from some breaking or parting,crevice,cleft,Geologists measure width of fissure regularly to monitor movement of Earths tectonic plates,-
 15-05-2021,2,stark,(adj) severe or bare in appearance; complete or sheer,sharp,utter,The blood was a slash of stark red against a white marble floor,He came running back in start terror
-15-05-2021,2,occult,(adj) relating to practices connected with supernatural powers,-,-,The movie Annihilation explores the boundary between natural and occult phenomena,-
+15-05-2021,2,occult,(adj/v) relating to practices connected with supernatural powers; cut off from view by interposing something,-,-,The movie Annihilation explores the boundary between natural and occult phenomena,His wealth was occulted when juxtaposed with that of his brothers
 15-05-2021,2,bereft,(adj) deprived of or lacking (something); (of a person) sad and lonely especially through someones death or departure,-,-,His room was bereft of colours,His death left his wife bereft
 15-05-2021,2,precipitate,(v/ adj) cause (an event or situation typically undesirable) to happen suddenly unexpectedly or prematurely; done made or action suddenly or without careful consideration,instigate,hasty,The Assassination of Archduke of Austria precipitated into WW1,The cabinet advised the PM not to take precipitate action
 15-05-2021,2,screed,(n) a long speech or piece of writing typically one regarded as tedious; a levelled layer of material (eg cement) applied to a surface,-,-,The criticism appeared in the form of screeds in a local magazine,The screed floor is more durable than the regular floor
@@ -1069,3 +1069,143 @@ date,session,word,meaning,synonym_1,synonym_2,sentence_1,sentence_2
 18-05-2021,3,garner,(v) gather or collect (something especially information or approval),assemble,accumulate,The Police struggled to garner sufficient evidence to file the chargesheet,-
 18-05-2021,3,suffrage,(n) right to vote in political elections,franchise,-,The pivotal feminist goal of suffrage was not obtained in US until 1920,-
 18-05-2021,3,decry,(v) publically denounce,condemn,-,Many intellectuals decry the hideous nature of the elections,-
+19-05-2021,1,tome,(n) a book especially a large heavy and scholarly one,opus,volume,I was astonished to see a kid pick up a thick tome on Roman Empire at a book store,-
+19-05-2021,1,underscore,(v) to make  evident,emphasize,stress,The Chairman arrived early to underscore the importance of the occasion,-
+19-05-2021,1,onomatopoeia,(n) formation or use of words that imitate sounds of the actions they refer to (eg cockoo sizzle etc),-,-,One theory of origin of language is that it began as a sort of onomatopoeia as early humans imitated sounds they heard,-
+19-05-2021,1,canonical,(adj) conforming to a general rule or acceptable procedure,-,-,The managers proposals are generally accepted as canonical,-
+19-05-2021,1,solioloquy,(n) act of speaking ones thoughts aloud then by oneself or regardless of any hearers especially by a character in a play,monologue,-,Edmund ends the scene the same way he began it with a soliloquy,-
+19-05-2021,1,wane,(v) (of a moon) have progressively smaller part of visible surface illuminated so it appears to decrease in size; (of a state or feeling) decrease in vigor or extent; growing weak,diminish,shrink,The scandal caused the politicians popularity to wane,-
+19-05-2021,1,qualified,(adj) oficially recognized as trained to perform a particular job; not complete or absolute,certified,limited,The newly qualified nurses are good at their jobs,I could only judge this job as a qualified success
+19-05-2021,1,flay,(v) strip the skin off (a corpse or carcass),excoriate,-,Ramsy Bolton in Game of Thrones used to flay his prisnoers of war alive,-
+19-05-2021,1,sundry,(adj) various,assorted,varied,The main character of the movie Babys day out returns home safely after his sundry adventures,-
+19-05-2021,1,kin,(n) ones family and relations,relatives,-,Many elderly people have no kin to turn to for assisstance,-
+19-05-2021,1,warrant,(v) justify or necessitate (a course of action); officially affirm or guarantee,vindicate,swear,A new investigation into Aarushi Talwar murder case is warranted by the new evidences which came into light,The vendor warrants the performance of the product
+19-05-2021,1,remunerative,(adj) financially rewarding,lucrative,-,Our investors are seeking more remunerative opportunities,-
+19-05-2021,1,solvent,(adj) having assets in excess of liabilities; able to meet financial obligations,debt-free,-,During the financial crisis several large banks had difficulty remaining solvent,-
+19-05-2021,1,grapple,(v) engage in a close fight or struggle without weapons,wrestle,tussle,Passer-by grappled with the man after the knife attack,-
+19-05-2021,1,welter,(v/n) move in a turbulent fashion; large number of items in no order,wallow,clutter,The pigs weltered about happily in the mud,There is such a welter of conflicting rules in the university
+19-05-2021,1,ingress,(n) the action or fact of going in or entering,entrance,admittance,Ingress to the freeway is made difficult by the construction,-
+19-05-2021,1,somatic,(adj) relating to or affecting the body especially distinct from mind,corporeal,-,Patients completed a questionnaire about their somatic symptoms,-
+19-05-2021,1,avowed,(adj) that has been asserted admitted or stated publically,professed,-,The avowed Trump supporter has expressed skepticism about the nations integrity,-
+19-05-2021,1,soporific,(adj) tending to induce drowsiness or sleep,drowsy,slumberness,For some people the best soporific is reading a boring book,-
+19-05-2021,1,status quo ante,(n) the previously existing state of affairs,-,-,Ambitious youth is a good news and is without doubt far better than the status quo ante of no ambitions at all,-
+20-05-2021,1,venal,(adj) motivated by successfully to bribery,corruptible,mercenary,The journalist claims that the Mayor went into politics for motives that were entirely venal,-
+20-05-2021,1,whimsical,(adj) playfully fanciful especially in an appealing or musing way; acting or behaving in an unpredictable manner,waggish,capricious,Many children appreciate Doctor Suess whimsical stories,-
+20-05-2021,1,ostensible,(adj) stated or appearing to be true but is not necessarily so,superficial,apparent,The judge understood the rivalry between parties which lay behind the ostensible complain they filed,-
+20-05-2021,1,linchpin/ lynchpin,(n) a person or thing vital to an enterprise or organization,-,-,Nurses are the linchpins of the National Health Service,-
+20-05-2021,1,behest,(n) a persons order or command,instruction,-,The army assembled at Commanders behest,-
+20-05-2021,1,cosmopolitian,(adj) belonging to the entire world,global,universal,Trapped in a small town he always dreamed of a more cosmopolitian existence,-
+20-05-2021,1,collusive,(adj) involving secret or unlawful cooperation aimed at deceiving or gaining an advantage over others,conspiratory,conniving,The telecom companies collusive behaviour enabled them to charge higher prices,-
+20-05-2021,1,hackneyed,(adj) so commonplace as to be stable; not fresh or original,banal,trite,Do not use hackneyed old sayings on me they never work,-
+20-05-2021,1,vagary,(n) an unexpected or  inexplicable change in a situation or someones behaviour,idiosyncracy,eccentricity,The vagaries of the weather can ruin the crops,-
+20-05-2021,1,exponent,(n) person who expounds or explains an idea or theory; advocate ,proponent,champion,An exponent of clean fuel he petitioned the government to increase the use of solar energy,-
+20-05-2021,1,brook,(n/v) a small stream; tolerate or allow,rivulet,bear,Udaipur has some great lakes and lovely brooks,The blind follower would brook no citicism of Modi Ji
+20-05-2021,1,naïve,(adj) simple and unsophisticated; lacking worldly experience and critical judgement,artless,immature,The naïve young employee has been offered the least salary by the HR,-
+20-05-2021,1,tableau,(n) a group of models or motionless figures representing the scene from a story,portrayel,-,Specificity in storytelling Raya and the Lost Dragon offers a tableau of cultural references,-
+20-05-2021,1,feasible,(adj) possible; logical or likely ,practical,conceivable,Your marketing plan is not feasible considering the ground realities,-
+20-05-2021,1,agency,(n) a business or organization providing a particular service on behalf of another business or person; action or intervention producing a particular effect,firm,influence,This is the best advertising agency in the town,These canals are carved by the agency of running water 
+20-05-2021,1,slight,(v) insult (someone) by treating them without proper respect or attention,snub,repulse,Every King was desperate not to slight Sage Durvasa,-
+20-05-2021,1,subservient,(adj) prepared to obey others unquestioningly; less important; serving to promote some end,truckling,subordinate; ancillary,Ram was subservient to his parents,He thought his wifes career is subservient to his; The whole narration is subservient to the moral plan of exemplifying the seven sins
+20-05-2021,1,din,(n) loud unpleasant and prolonged noise,cacophony,clamor,I could not sleep due to the all-night din from partygoers,-
+20-05-2021,1,endeavour,(n) an attempt to achieve a goal,venture,attempt,Mission Chandrayan II though unsuccessful was a great endeavour from ISRO,-
+20-05-2021,1,apocryphal,(adj) (of a story or statement) of doubtful authenticity although widely accepted as true,fictitious,-,The apocryphal story of the Apple fall on head was denied by Newton in an interview,-
+20-05-2021,1,corporeal,(adj) realting to persons body especially opposed to his spirit,bodily,somatic,The man was quite frank about his corporeal appetites,-
+20-05-2021,1,surfeit,(n) an excessive amount of something,glut,plethora,The kitchen has a serious surfeit of jellied cranberry cans that no one orders,-
+20-05-2021,1,orchestrate,(v) plan or coordinate the elements of (a situation) to produce a desired effect especially surreptitiously,mastermind,choreograph,The political unrest has been orchestrated by the minority group,-
+20-05-2021,1,pedestrian,(n/ adj) a person walking; lacking inspiration or excitement,stroller,monotonous,The road is so dangerous that pedestrians avoid it,He lived a pedestrian life working at the paper mill and living in his trailor
+20-05-2021,1,confluence,(n) act or process of merging (especially two rivers),conflux,convergence,India is a land of confluence of many foreign cultures Mughals English French Portuguese and Dutch,-
+20-05-2021,1,pretentious,(adj) attempting to impress by affecting greater importance or merit than actually possessed,ostentatious,showy,To anyone ignorant to underlying physics it might seem the most arrogant and pretentious necromancy,-
+20-05-2021,1,excise,(n/v) a tax levied on certain goods and commodities or sold within a country; cut out surgically or remove (a section) from a piece of text or music,duty,extract,The rate of excise duty on alcohol is very high,Surgeon can excise brain tumors with high precision; The clauses were excised from the contract
+20-05-2021,1,clinch,(v) confirm or settle (a contract or bargain); grapple at close quarters (especially for boxers),conclude,wrestle,With Ronaldo in the team they easily clinched the win,The expert boxer clicned the naïve student in the corner of the room
+20-05-2021,1,abound,(v) exist in large number or amounts,proliferate,flourish,Rumours of the scandal abound after it published in the magazine,-
+20-05-2021,1,crescendo,(n) the loudest point reached in a gradually increasing sound; the highest point reached in a progressive increase in intensity,culmination,pinnacle,Mrs Higgins loved the symphony by the time it reached its crescendo she was almost dancing,The government tried to ignore the protest but finally had to addres the issue when the demonstration reached its crescendo
+20-05-2021,2,incendiary,(adj) designed to cause fires; arousing conflict,inflammable,agitational,It is illegal to bring incendiaries on a plane as it might be dangerous,The college suspended him for creating an incendiary website
+20-05-2021,2,reminiscent,(adj) tending to remind someone of something,suggetive,-,A sparkling winter day that was oddly reminiscent of summer in its cheering sunniness,-
+20-05-2021,2,acme,(n) point at which something is at its best,pinnacle,zenith,Dhoni retired from international cricket at the acme of his career,-
+20-05-2021,2,ascendant ,(adj) rising in power or influence,prospering,budding,Ceaser was in the ascendant during the early years of his reign,-
+20-05-2021,2,notoriety,(n) state of being famous for some bad quality or deed,infamy,disrepute,Bill was notorious for being late everywhere hence his friends stopped inviting  him to movies,-
+20-05-2021,2,poised,(adj) having composed and self-assured manner; having a graceful and elegant bearing,-,-,The actors were poised on the stage ready fot eh curtain to come up,-
+20-05-2021,2,potentate,(n) a monarch or ruler especially an autocratic one,sovereign,-,62-year-old Prince Charles has waited a lot to become potentate of England ,-
+20-05-2021,2,looming,(v) appear as a vague from especially one that is large and threatening; (of an event regarded as threatening) seem about to happen,emerge,impend,A man with a gun loomed out of darkness,There is economic crisis looming in the country
+20-05-2021,2,zenith,(n) the time at which something is most powerful or successful,acme,apex,She is at the zenith of her career as a dancer,-
+20-05-2021,2,hardy,(adj) capable of enduring difficult condition,robust,tough,When the entire family enjoyed the trip to South America only hardier members even ettempted to hike to the top of the tallest volcano,-
+20-05-2021,2,ecumenical,(adj) promoting worldwide Christian unity; worldwide or general in extent influence or applocation,-,-,The ecumenical movement was not well received by the authorities,Over years New York as a financial capital has become less ecumenical
+20-05-2021,2,buffer,(v) lessen or moderate the impact of something,cushion,mitigate,The massage helped to buffer the strain,-
+20-05-2021,2,penitant,(adj) feeling or showing sorrow and regret for having done wrong,repantant,contrite,The exchange between penitent and confessor is to remain confidential,-
+20-05-2021,2,equitable,(adj) fair and impartial,unbiased,just,Lord Mountbatten had to ensure equitable distribution of resources,-
+20-05-2021,2,adroit,(adj) clever or skillful,dexterous,adept,He was adroit at tax avoidance,-
+20-05-2021,2,pith,(n) the essence of something,core,crux,I can only stay in the meeting for a minute - can you please get to the pith of the issue carefully,-
+20-05-2021,2,outclass,(v) be far superior to,surpass,outshine,India totally outclassed Australia in the Test Match,-
+20-05-2021,2,indifferent,(adj) having no interest; unbiased,disinterested ,impartial,Do what you want  - I am indifferent. I would not even notice,-
+20-05-2021,2,fascistic,(adj) having or relating to extreme right wing authoritarian or intolerant views or practives,-,-,His campaign is filled with vaguely fascistic imagery,-
+20-05-2021,2,archaic,(adj) very old or old-fashioned,obselete,anachronistic,The archaic computer systems of the schools  cannot run modern softwares,-
+20-05-2021,2,sap,(v) gradually weaken or destroy ( a persons strength or power),erode,deplete,Her energy is being sapped by the disease,-
+20-05-2021,2,spartan,(adj) showing or characterized by lcack of comfort and luxury ,austere,ascetic,A young soldier in the spartan environment can really long for home cooked food,-
+20-05-2021,2,libel,(n) a published false statement that is damaging to a persons reputation,defemation,calumny,The News Channel was found for guilty of a libel on the Mayor,-
+20-05-2021,2,objective,(adj) (of a person or their judgement) not influenced by personal feelings in considering or representing facts,non-partisan,unbiased,Historians always try to be objective and impatial,-
+20-05-2021,2,forfeit,(v) lose or be deproved (property or a right or priviledge) as a penalty for wrongdoing,-,-,Those unable to meet their taxes are liable to forfeit their estates,-
+20-05-2021,2,debase,(v) reduce (something) in quality or value,degrade,devalue,The over-romantic episodes debase the dignity of the drama,-
+20-05-2021,2,ulterior,(adj) existing beyond what is obvious or admitted; intentionally hidden,undisclosed,underlying,There must be an ulterior motive to his request,-
+20-05-2021,2,eclipse,(n/v) obscuring of one thing by another (especially sun by the moon); to darken or make less important,concealing,occult,During solar eclipse the moon shadows the sun,Jackey Shroff has his fame eclispsed by his son
+20-05-2021,2,recidivist,(n) a convicted criminal who reoffends especially repeatedly,-,-,The jury must not show forgiveness to the recidivist else he will again commit a crime,-
+20-05-2021,2,imminent,(adj) about to happen,impending ,appraoching,In the face of imminant war the nation looked to the Defence Minister for reassurances,-
+22-05-2021,1,peccadillo,(n) a relatively minor fault or sin,misdemeanour,delinquency,Thomas is going to propose Melinda tomorrow - sure she has her peccadillos like anyone but she is perfect for him,-
+22-05-2021,1,lucrative,(adj) producing a great deal or profit,remunerative,profitable,Abhishek Upmanyu has a lucrative career being  a stand up comedian,-
+22-05-2021,1,rhetoric,(n) art or study or persuation through speaking or writing; language that is elaborate or pretentiously but actually empty and meaning little,eloquence,oratory,The ancient Greeks used to study rhetoric as a major academic subject,The politicians words are all rhetoric and no substance
+22-05-2021,1,opulence,(n) great wealth or luxuriousness,splendour,affluence,In some parts of the country nearly unimaginable opulence can be found side by side with unthinkable poverty,-
+22-05-2021,1,benign,(adj) gentle and kindly; (of a disease) not harmful in effect,friendly,innocuous,He has a benign but firm manner,He was relieved that the autopsy report said that the growth was benign
+22-05-2021,1,nonchalant,(adj) (of a person or manner) feeling or appearing casually calm and relaxed; not displaying anxiety interest or enthusiasm,insouciant,apathetic,She gave a nonchalant shrug to everyone and left the room,-
+22-05-2021,1,trifling,(adj) not very important; trivial,frivolous,shallow,Against my huge debts this trifling sum of money cannot help,-
+22-05-2021,1,decrepit,(adj) worn out or ruined because of age or neglect; (of a person) elderly or infirm,dilapidated,enfeebled,This town is marked with rows of decrepit houses,The decrepit old bodyguard cannot protect you anymore
+22-05-2021,1,sagacious,(adj) having or showing keen mental discernment and good judgement,perspicaious,sapient,It is very important to choose a mentor who is not only successful but also sagacious,-
+22-05-2021,1,recrimination,(n) an accusation in response to one from someone else,-,-,The discussion turned into a heated debate with recriminations,-
+22-05-2021,1,chauvinism,(n) exaggerated or aggressive patriotism; excessive or prejudiced support for ones own cause group or sex,jingoism,bigot,He is such a chauvinist that he denies that any other nation could be better that us at anything,-
+22-05-2021,1,canton,(n) a subdivision of a country established for political or administrative purpose,-,-,The public rejected the possibility of dividing the country into cantons,-
+22-05-2021,1,incipient,(adj) beginning to happen or develop,nascent,inchoate,The movie producer was devastated when the incipent project was crushed before it had even begun shooting,-
+22-05-2021,1,apotheosis,(n) highest point in the development of something,culmination,pinnacle,Getting a movie as the main character was the apotheosis of his career,-
+22-05-2021,1,avid,(adj) enthusiastic dedicated; excessively desirous,ardent,zealous,An avid cyclist - she won a gold medal in the last tournament,-
+22-05-2021,1,hubristic,(adj) excessively proud or self confident,conceited,orgulous,A hubristic belief in his own self-proclaimed genious will lead to his downfall,-
+22-05-2021,1,languid,(adj) (of a person or manner) having or showing a disinclination for physical exertion or effort; weak or faint from illness or fatigue,unenergetic,lassitude,We need to join the fitness camp as we are pretty languid people,After the delivery the women looked pale languid and weak
+22-05-2021,1,hedonism,(n) pursuit of pleasure; sensual self-indulgance,debauchery,voluptuousness,Their spring break trip to Mexico became an exercise in heedless hedonism,-
+22-05-2021,1,deface,(v) spoil the surface or appearance of (something),vandalize,tarnish,He payed the fine for defacing the library books,-
+22-05-2021,1,augmentation,(n) action or process of making or becoming greater in size or amount,accretion,proliferation,Augmentation to the benefits package over the years have resulted in a total of 12 paid holidays to the employees,-
+22-05-2021,1,sound,(v) ascertain the depth (usually of water) as with a sounding line; inquire into (someones opinion) discreetly or cautiously,plumb,investigate,Mr Pattison was sounding depth of the water using a pole,Officials arrived to sound out public opinion at meetings in factories
+22-05-2021,1,bluster,(v) talk in a loud aggressive or indignant way; (of a storm or wind) blow or beat fiercely and noisely,brag,gust,He brags and blusters but he never really does what he says,A winter gale blustered against the sides of the house
+22-05-2021,1,egregious,(adj) extraordinarily bad,appalling,flagrant,Your conduct is egregious violation oour Honor Code - you should not have stolen your roommates research paper,-
+22-05-2021,1,exalted,(adj) (of a person or their status) at a high or powerful level; in a state of extreme happiness,prominent,jubilant,It took a lot of efforts to reach this exalted rank,I felt exalted and alive on seeing you
+22-05-2021,1,replete,(adj) filled or well supplied with something,surfeit,plethora,The essay is replete with errors,-
+22-05-2021,1,pretension,(n) a claim or assertion of a claim to something; use of affection to impress,aspiration,pretentiousness,His pretensions to his brothers wealth is invalid,He spoke simply without pretensions to the elders
+22-05-2021,1,bureaucracy,(n) a system of government in which most os the important decisions are taken by state officials rather than by elected representatives,-,-,For every dollar UN receives only 29 cents go to the actual cause rest goes towards bureaucracy,-
+22-05-2021,1,proclivity,(n) a tendency to choose or do something regularly,disposition,inclination,His proclivity for hard work has made him so successful,-
+22-05-2021,1,dogma,(n) a principle or set of principles laid down by authority as incontrovertibly true ,doctrinaire,-,It is a part of the dogma of modern education that there are multiple intelligences of equal importance,-
+22-05-2021,1,odious,(adj) extremely unpleasant; repulsive,revolting,repugnent,Loki is portrayed as a odious character in the movie,-
+22-05-2021,2,culminate,(v) reach the final stage or highest point,pinnacle,acme,A Ph.D. program generally culminates in a written dissertation,-
+22-05-2021,2,intuit,(v) to know sense or understand by intuition,cognize,apprehend,He was able to intuit the answer immediately,-
+22-05-2021,2,articulate,(adj) using language in a clear and fluent way,eloquence,-,She is so articulate that I am sure she will be a good lawyer,-
+22-05-2021,2,malfeasance,(n) wrongdoing especially by a public official,misconduct,-,The investigation has uncovered evidence of corporate malfeasance,-
+22-05-2021,2,cogent,(adj) (of an argument or case) clear logical and convincing,-,-,Studying logic is an excellent way to improve at formulating cogent arguments,-
+22-05-2021,2,habiliment,(n) clothing,raiment,apparel,The ladys rich habiliments made the hosts servant think she was someone important,-
+22-05-2021,2,philanthropy,(n) efforts to improve the well being of humankind generally through giving money,altruism,-,Many wealthy people have started to turn to philanthropy for social good,-
+22-05-2021,2,drab,(adj/ n) lacking brightness or interest; drearily dull; a prostitute,colourless,courtesan,The landscape was drab and grey,The new prince has filled his castles with drabs
+22-05-2021,2,bygone,(adj) belonging to an earlier time ,erstwhile,quondam,It is tempting to think about the glorious bygones but instead one should prepare for the future,-
+22-05-2021,2,culpable,(adj) deserving blame,guilty,blameworthy,Mercy killings are less culpable than ordinary murders,-
+22-05-2021,2,fanatical,(adj) excessively devoted enthusiastic or zealous in an uncritical way,ardent,fervent,Mrs Becker was fanatical about grammar who once deducted 15 points from a students paper for misplaced semi colon,-
+22-05-2021,2,lenience,(n) the fact or quality of being more merciful or tolerant than expected,clemency,forbearance,The judge has a repuntance for lenience towards first time criminals,-
+22-05-2021,2,requite,(v) make appointment return for (a favour service or wrongdoing),reciprocate,revenge,He was a good human and was quick to requite a kindness,-
+22-05-2021,2,macabre,(adj) disturbing because concerned with aor causing fear of death,gruesome,morbid,The news telecated a macabre series of murders,-
+22-05-2021,2,unseemly,(adj) (of a behaviour or actions) not proper or appropriate,indecorous,unfitting,He spent unseemly amounts of money on himself,-
+22-05-2021,2,mellifluous,(adj) (of a sound) pleasingly smooth and musical to hear,dulcet,mellow,Her low mellifluous voice allured me,-
+22-05-2021,2,profligate,(adj) recklessly extravagant or wasteful in the use of resources,prodigal,spendthrift,The developed nations are the profligate consumers of natural resources,-
+22-05-2021,2,rogue,(n) a dishonest or unprincipled man,reprobate,scoundrel,A rougue employee might tap into out computer database,-
+22-05-2021,2,debunk,(v) expose ridicule or disprove false or exaggerated claims,-,-,Galileo spent the last years of his life under house urrest for debunking the idea that Sun revolves around the Earth,-
+22-05-2021,2,wanton,(adj) (of a cruel or violent action) deliberate and unprovoked; sexually unrestrained,malevolent,promiscuous,What he desired was sheer wanton vandalism,Her cheeks burned when she thought how wanton she has been
+22-05-2021,2,concede,(v) admit or agree that something is true after first denying or resisting it; surrender or yield (a possession right or priviledge),acknowledge,relinquish,I had to concede that I overreacted,The Indian King Porus refused to concede in front of Alexander
+22-05-2021,2,solecism,(n) a grammatical mistake in speech or writing; an instance of incorrect behaviour,howler,gaffe,You must reduce the solecisms in your essay,The solecism of asking ones host how much something in their house cost them
+22-05-2021,2,foreshadow,(v) be a warning or indication (a future event),presage,prognosticate,Other details of the new measures are foreshadowed in the paper,-
+22-05-2021,2,circumvent,(v) find a way around (an obstacle),evade,bypass,I founf it quite easy to circumvent security,-
+22-05-2021,2,concur,(v) be of same opinion; agree,accord,assent,The authors concured with the majority of the readers,-
+22-05-2021,2,unbeknown,(adj) without the knowledge of (someone),unknown,-,Unbeknownst to us the rumors were flying in the town,-
+22-05-2021,2,wily,(adj) skilled at gaining an advantage especially deceitfully,duplicity,finess,The wily criminal stole 8 laptops by simply walking into an office and introducing himself as the laptop repairman,-
+22-05-2021,2,discourse,(n) written or spoken communication or debate,discussion,dialogue,The language of political discourse is difficult for ordinary people to understand,-
+22-05-2021,2,phony,(n) fake; counterfeit,faux,apocryphal,Phony Gucci Bags available at very cheap rate in Chinatown,-
+22-05-2021,2,antagonize,(v) cause (someone) to become hostile,embitter,envenom,Her iconoclast comments antagonized many people,-
